@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2014-07-20 BZR 5010)-product   date = Wed Jul 23 14:32:21 2014
+
+BeginCmp
+TimeStamp = /53CC03B1;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CC03AE;
+Reference = P1;
+ValeurCmp = CONN_25X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x25;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CC0B55;
+Reference = U1;
+ValeurCmp = 628128;
+IdModule  = Own:DIP32-400_ELL;
+EndCmp
+
+EndListe
